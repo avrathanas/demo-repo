@@ -1,3 +1,3 @@
 # demo 
 
-sintomi perigrafi
+sintomi perigrafi.
